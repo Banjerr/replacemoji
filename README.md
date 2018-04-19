@@ -9,7 +9,8 @@
 - Install the React component with npm via `npm install --save replacemoji`
 - Pass an array of object(s) to the `replacements` prop, containing two properties (`searchFor` and `replaceWith`); both being strings
 
-```const replacementArray = [
+```
+const replacementArray = [
   {
     searchFor: '💩',
     replaceWith: 'https://i.gifer.com/1E2h.gif'
