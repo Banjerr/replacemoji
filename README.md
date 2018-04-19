@@ -22,4 +22,4 @@
 
 ...
 
-<ReplacEmoji replacements={}>Some text with a Unicode emoji 😺</ReplacEmoji>```
+<ReplacEmoji replacements={replacementArray}>Some text with a Unicode emoji 😺</ReplacEmoji>```
