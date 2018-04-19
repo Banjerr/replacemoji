@@ -1,0 +1,15 @@
+.replacemoji-span {
+	width: 36px; 
+	height: 36px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	z-index: 90;
+	background-repeat: no-repeat !important;
+	background-size: contain !important;
+}
+
+.oldEmoji {
+	opacity: 0;
+	transform: translateY(-3px);
+}
