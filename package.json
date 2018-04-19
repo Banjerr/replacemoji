@@ -1,6 +1,6 @@
 {
   "name": "replacemoji",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Components to aid in replacement of Unicode emojis for a custom user experience",
   "main": "build/index.js",
   "repository": {
